@@ -1,0 +1,14 @@
+#+TITLE: Outcome For Week0
+
+** DONE GNU Toolchain Test
+- Testing for ~SG2000~ on MilkV DuoS
+  - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-plct/SG2000/README.md][GNU-PLCT]]
+  - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-upstream/SG2000/README.md][GNU-UPSTREAM]]
+
+** DONE Support Matrix
+- Add ~Ubuntu~ for MilkV DuoS
+  - [[https://github.com/ruyisdk/support-matrix/pull/201][[Add Ubuntu testing reports for MilkV DuoS]​]]
+    
+** STARTED Vulkan CTS Test
+- Complete testing for Vulkan CTS 1.3.8.1 on MilkV Megrez
+  - Current: ~spirv_assembly~

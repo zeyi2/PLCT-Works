@@ -1,6 +1,0 @@
-#+TITLE: Outcome For Week0
-
-* GNU Toolchain Test
-- Complete testing for ~SG2000~ on MilkV DuoS
-  - https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-plct/SG2000/README.md
-  - https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-upstream/SG2000/README.md
