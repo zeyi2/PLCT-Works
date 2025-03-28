@@ -1,19 +1,19 @@
-#+TITLE: Outcome For Week0
-
-* 测试项目
-
+* Outcome for Month0
 ** DONE GNU Toolchain Test
-- Testing for ~SG2000~ on MilkV DuoS
+- Testing for ~SG2000~
   - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-plct/SG2000/README.md][GNU-PLCT]]
   - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-upstream/SG2000/README.md][GNU-UPSTREAM]]
+        
+** DONE Frontend
+Refactor Searchbar:
+- https://github.com/panglars/VeRForTe/commit/430c59d95526765079d0996854480b0c742f322a
 
 ** DONE Support Matrix
+- Add ~Openwrt~ for MilkV DuoS
+  - https://github.com/ruyisdk/support-matrix/pull/204
 - Add ~Ubuntu~ for MilkV DuoS
-  - [[https://github.com/ruyisdk/support-matrix/pull/201][[Add-Ubuntu-testing-reports-for-MilkV-DuoS]​]]
+  - https://github.com/ruyisdk/support-matrix/pull/201
     
-** STARTED Vulkan CTS Test
+** DONE Vulkan CTS Test
 - Complete testing for Vulkan CTS 1.3.8.1 on MilkV Megrez
-  - Current: ~spirv_assembly~
-
-* 遇到的问题
-- Vulkan CTS 测试跑一半 Abort 了
+  
