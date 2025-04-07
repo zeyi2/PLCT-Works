@@ -1,0 +1,9 @@
+#+TITLE: Outcome for week0 [250331-250406]
+
+* Testing
+** 完成并提交 Vulkan CTS 的测试报告
+- https://github.com/QA-Team-lo/VK-GL-CTS/commit/495b404362b9151784b9dc618faa693330c707a7
+
+* Frontend
+** 完成前端所需要的信息收集
+- https://github.com/zeyi2/board_info
