@@ -1,0 +1,7 @@
+#+TITLE: Outcome for week1
+* Support Matrix
+- LPi4A 8+32 oE & RevyOS
+    - https://github.com/ruyisdk/support-matrix/pull/248
+    - https://github.com/ruyisdk/support-matrix/pull/247
+- Metadata RAM info
+    - https://github.com/ruyisdk/support-matrix/pull/251
