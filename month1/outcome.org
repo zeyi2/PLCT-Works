@@ -1,0 +1,21 @@
+* Outcome for Month1
+
+** DONE Vulkan CTS Test
+- Complete testing for Vulkan CTS 1.3.8.1 on MilkV Megrez
+  - https://github.com/QA-Team-lo/VK-GL-CTS/commit/495b404362b9151784b9dc618faa693330c707a7
+
+** Support Matrix
+- LPi4A 8+32 oE & RevyOS
+  - https://github.com/ruyisdk/support-matrix/pull/248
+  - https://github.com/ruyisdk/support-matrix/pull/247
+- Metadata RAM info
+  - https://github.com/ruyisdk/support-matrix/pull/251
+  - https://github.com/ruyisdk/support-matrix/pull/265
+- Armbian for LiP4A 8+32G
+  - https://github.com/ruyisdk/support-matrix/pull/278
+- FreeRTOS for DuoS
+  - https://github.com/ruyisdk/support-matrix/pull/283
+
+** GNU Toolchain Test
+- GCC14 @ SG2000
+  - https://github.com/QA-Team-lo/ruyisdk-gnu-tests/pull/5

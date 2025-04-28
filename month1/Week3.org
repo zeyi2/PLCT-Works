@@ -1,0 +1,2 @@
+* Support Matrix
+- FreeRTOS @ DuoS
