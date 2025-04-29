@@ -1,9 +1,9 @@
 * Outcome for Month0 [250315-250328]
 ** DONE GNU Toolchain Test
 - Testing for ~SG2000~
-  - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-plct/SG2000/README.md][GNU-PLCT]]
-  - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-upstream/SG2000/README.md][GNU-UPSTREAM]]
-        
+  - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-plct/SG2000/README.13.1.0.md][GNU-PLCT]]
+  - [[https://github.com/QA-Team-lo/ruyisdk-gnu-tests/blob/main/gnu-upstream/SG2000/README.13.2.0.md][GNU-UPSTREAM]]
+
 ** DONE Frontend
 Refactor Searchbar:
 - https://github.com/panglars/VeRForTe/commit/430c59d95526765079d0996854480b0c742f322a
@@ -13,7 +13,6 @@ Refactor Searchbar:
   - https://github.com/ruyisdk/support-matrix/pull/204
 - Add ~Ubuntu~ for MilkV DuoS
   - https://github.com/ruyisdk/support-matrix/pull/201
-    
+
 ** DONE Vulkan CTS Test
 - Complete testing for Vulkan CTS 1.3.8.1 on MilkV Megrez
-  
