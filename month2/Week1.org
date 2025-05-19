@@ -1,0 +1,6 @@
+#+title: Week0
+* TH1520 文档
+- Currently in private repo
+  https://github.com/zeyi2/binfo
+* Support Matrix
+- [ONGOING] Slackware@LiP4A
