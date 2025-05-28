@@ -1,0 +1,13 @@
+* Support Matrix
+- LiP4A8+32
+  - Nix & Slackware & ArchLinux
+  - https://github.com/ruyisdk/support-matrix/pull/290
+  - https://github.com/ruyisdk/support-matrix/pull/301
+- DuoS
+  - FreeRTOS + Debian
+  - https://github.com/ruyisdk/support-matrix/pull/283
+  - https://github.com/ruyisdk/support-matrix/pull/310
+
+* TH1520 文档搜集
+- 应 MX 要求, currently in private repo
+  https://github.com/zeyi2/binfo
