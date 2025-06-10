@@ -1,0 +1,4 @@
+* binfo
+完善 TH1520 资料
+- 应 MX 要求, currently in private repo
+  https://github.com/zeyi2/binfo
