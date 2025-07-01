@@ -1,0 +1,9 @@
+* Outcome
+** Support Matrix
+- DuoS Debian 更新
+  - https://github.com/ruyisdk/support-matrix/pull/322
+- LiP4A Merge 不同版本的开发板
+  - https://github.com/ruyisdk/support-matrix/pull/324
+** GNUtests
+- SG2000/GCC16
+  - https://github.com/QA-Team-lo/ruyisdk-gnu-tests/pull/9
