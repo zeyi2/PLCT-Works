@@ -12,3 +12,6 @@
 ## Typo fixes
 - https://github.com/ruyisdk/support-matrix/pull/347
 - https://github.com/ruyisdk/support-matrix/pull/340
+
+# 其它
+验证 LiP4A + OpenEuler 25.03
